@@ -1,6 +1,6 @@
 {
   "name": "mathematical-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to do some quick maths",
   "main": "./dist/index.js",
   "prepublish": "npm run test && npm run build",
